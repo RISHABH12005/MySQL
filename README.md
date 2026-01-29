@@ -3,8 +3,6 @@
 ## *Intro*
 An open-source relational database management system (RDBMS) that is widely used for managing structured data. It is known for its speed, reliability, ease of use, making it popular in web applications, enterprise systems, cloud services.
 
----
-
 ## *Key Features*
 - *Relational Database*: Uses structured tables with relationships between them.
 - *SQL Support*: Uses Structured Query Language (SQL) for querying & managing data.
@@ -13,8 +11,6 @@ An open-source relational database management system (RDBMS) that is widely used
 - *Security*: Offers robust authentication, access control, & encryption mechanisms.
 - *Replication & Clustering*: Supports data replication for redundancy & high availability.
 - *Cross-Platform Compatibility*: Runs on Windows, Linux, macOS, cloud environments.
-
----
 
 ## *Core Concepts*
 
@@ -51,8 +47,6 @@ An open-source relational database management system (RDBMS) that is widely used
 - `ROLLBACK` – Undo changes in a transaction.
 - `SAVEPOINT` – Set a checkpoint in a transaction.
 
----
-
 ## *Normalization*
 Normalization is the process of structuring a database to reduce redundancy and improve integrity.
 - *1NF (First Normal Form)*: Ensures atomicity (no repeating groups in a column).
@@ -70,8 +64,6 @@ Normalization is the process of structuring a database to reduce redundancy and 
   - *Full-text Index*: Optimized for text searching.
   - *Composite Index*: Combines multiple columns for better search performance.
 
----
-
 ## *Joins*
 Joins allow combining data from multiple tables based on relationships.
 - *INNER JOIN*: Returns matching records from both tables.
@@ -80,13 +72,9 @@ Joins allow combining data from multiple tables based on relationships.
 - *FULL JOIN*: Returns all records from both tables (not supported in MySQL but can be simulated with UNION).
 - *CROSS JOIN*: Produces a Cartesian product of both tables.
 
----
-
 ## *Stored Procedures & Triggers*
 - *Stored Procedures*: Predefined SQL scripts stored in the database, improving performance & security.
 - *Triggers*: Automatic execution of SQL operations when certain conditions are met (e.g., before/after insert, update, delete).
-
----
 
 ## *Security*
 - Use *strong passwords* for database users.
