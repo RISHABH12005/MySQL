@@ -1,5 +1,6 @@
 # *My Sequence Query Language (MySQL)*
-
+- [Install](https://dev.mysql.com/downloads/installer)
+- 
 ## *Intro*
 An open-source relational database management system (RDBMS) that is widely used for managing structured data. It is known for its speed, reliability, ease of use, making it popular in web applications, enterprise systems, cloud services.
 
